@@ -1,0 +1,3 @@
+:HL["/gym/_next/static/chunks/3737xyt84za2z.css","style"]
+:HC["/",""]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"history","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"Jo3xHiptXE7d3fs8qg8u4"}

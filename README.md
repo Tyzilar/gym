@@ -1,6 +1,6 @@
 # Gym
 
-A workout log that runs in your phone's browser: pick a program, log sets with a rest timer, track progress, PRs and awards.
+A simple workout log that runs in your phone's browser: follow a program, log sets with a rest timer, and track your progress.
 
 **Open it:** https://tyzilar.github.io/gym/
 
@@ -8,4 +8,4 @@ A workout log that runs in your phone's browser: pick a program, log sets with a
 2. Share → **Add to Home Screen**.
 3. Open it from the new icon.
 
-Everything you log is saved on your own phone — no account, nothing sent anywhere. Use **Program → Export backup** every few weeks so a new phone doesn't mean starting over. It works offline after the first open.
+Everything you log is saved on your own phone — no account, nothing sent anywhere. Use **Program → Export Backup** every few weeks so a new phone doesn't mean starting over. It works offline after the first open.

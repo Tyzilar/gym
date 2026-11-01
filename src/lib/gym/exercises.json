@@ -1,0 +1,2296 @@
+{
+ "chest-supported-row": {
+  "name": "Chest-Supported Row",
+  "pattern": "horizontal-pull",
+  "primary": "lats",
+  "secondary": "rhomboids, rear delts, biceps",
+  "equipment": "machine",
+  "setup": [
+   "Chest flush against the pad",
+   "Pull elbows back and slightly down, not out to the sides",
+   "Pause a beat at full contraction"
+  ],
+  "shouldFeel": "A stretch across the outer back at the bottom, then the squeeze happening behind the armpit and shoulder blade — not in the biceps or the upper traps.",
+  "commonFaults": [
+   {
+    "symptom": "I feel it mostly in my biceps",
+    "fix": "Lead with the elbow, not the hand — think 'elbow to back pocket' rather than 'pull the handle'."
+   },
+   {
+    "symptom": "My traps/upper back shrug up",
+    "fix": "Set the pad height so shoulders start slightly depressed; pull to lower ribs, not to the neck."
+   },
+   {
+    "symptom": "Right side does all the work (asymmetry)",
+    "fix": "Switch to single-arm-lat-pulldown or seal-row for a block to force the left side to keep up."
+   }
+  ],
+  "substitutes": [
+   "seal-row",
+   "single-arm-lat-pulldown",
+   "lat-pulldown-wide"
+  ]
+ },
+ "flat-db-press": {
+  "name": "Flat Dumbbell Press",
+  "pattern": "horizontal-push",
+  "primary": "chest",
+  "secondary": "front delts, triceps",
+  "equipment": "dumbbell",
+  "setup": [
+   "Dumbbells start over the chest, not the face",
+   "Lower with control; stop the exercise if you feel pain or pinching",
+   "Press up and slightly in"
+  ],
+  "shouldFeel": "A stretch across the chest at the bottom, pressure through the chest and front shoulder on the way up.",
+  "commonFaults": [
+   {
+    "symptom": "Pinching or sharp pain in the shoulder",
+    "fix": "Stop the exercise and record the pain. Do not use technique cues to continue through it."
+   },
+   {
+    "symptom": "All triceps, no chest",
+    "fix": "Slow the descent to 3 seconds and stop 2 inches short of full lockout on the way up to keep tension on the chest."
+   }
+  ],
+  "substitutes": [
+   "incline-db-press",
+   "machine-shoulder-press"
+  ]
+ },
+ "lat-pulldown-wide": {
+  "name": "Wide-Grip Lat Pulldown",
+  "pattern": "vertical-pull",
+  "primary": "lats",
+  "secondary": "biceps, rear delts",
+  "equipment": "cable",
+  "setup": [
+   "Grip just outside shoulder width",
+   "Lean back slightly, drive elbows down and back",
+   "Avoid yanking with body English"
+  ],
+  "shouldFeel": "The stretch runs from the armpit down the side of the back, squeeze is under the shoulder blade at the bottom.",
+  "commonFaults": [
+   {
+    "symptom": "Mostly biceps and forearms",
+    "fix": "Loosen your grip slightly and think about pulling with your elbows, not your hands."
+   },
+   {
+    "symptom": "Using momentum / leaning back too far",
+    "fix": "Slow the negative to 2-3 seconds and keep the torso near vertical."
+   }
+  ],
+  "substitutes": [
+   "single-arm-lat-pulldown",
+   "chest-supported-row"
+  ]
+ },
+ "seated-db-shoulder-press": {
+  "name": "Seated Neutral-Grip DB Shoulder Press",
+  "pattern": "vertical-push",
+  "primary": "front/side delts",
+  "secondary": "triceps",
+  "equipment": "dumbbell",
+  "setup": [
+   "Palms facing each other (neutral grip) to keep the shoulder joint happy",
+   "Press up without flaring elbows past ear line",
+   "Stop the exercise if you feel pain or pinching overhead"
+  ],
+  "shouldFeel": "Effort across the top of the shoulder and side delt, not a pinch at the top of the movement.",
+  "commonFaults": [
+   {
+    "symptom": "Pinching at the top of the press",
+    "fix": "Stop the exercise and record the pain. Do not use technique cues to continue through it."
+   },
+   {
+    "symptom": "Lower back arches hard",
+    "fix": "Brace the core before each rep; drop the weight if bracing alone doesn't fix it."
+   }
+  ],
+  "substitutes": [
+   "machine-shoulder-press"
+  ]
+ },
+ "cable-face-pull": {
+  "name": "Cable Face Pull",
+  "pattern": "horizontal-pull",
+  "primary": "rear delts",
+  "secondary": "rhomboids, rotator cuff",
+  "equipment": "cable",
+  "setup": [
+   "Rope at upper-chest to face height",
+   "Pull hands apart toward your ears, thumbs back",
+   "Squeeze shoulder blades together at the end"
+  ],
+  "shouldFeel": "Burning across the back of the shoulders, not the traps.",
+  "commonFaults": [
+   {
+    "symptom": "All traps/neck",
+    "fix": "Drop the weight, pull to eye level not forehead, and lead with the backs of the hands."
+   }
+  ],
+  "substitutes": [
+   "cable-rear-delt-fly"
+  ]
+ },
+ "db-lateral-raise": {
+  "name": "Dumbbell Lateral Raise",
+  "pattern": "shoulder-isolation",
+  "primary": "side delts",
+  "secondary": "traps",
+  "equipment": "dumbbell",
+  "setup": [
+   "Slight forward lean, dumbbells start at your sides",
+   "Lead with the elbows, raise to shoulder height",
+   "Slight forward tilt of the hand (pinky slightly higher) at the top"
+  ],
+  "shouldFeel": "A burn on the outside/top of the shoulder cap, not the traps shrugging.",
+  "commonFaults": [
+   {
+    "symptom": "Traps take over / shrugging",
+    "fix": "Drop the weight 20% and consciously keep shoulders down; a lighter, cleaner set beats a heavier shrug."
+   },
+   {
+    "symptom": "Feels like nothing",
+    "fix": "Add a 1-second pause at the top of each rep, or try a band for constant tension."
+   }
+  ],
+  "substitutes": [
+   "cable-rear-delt-fly"
+  ]
+ },
+ "ez-bar-curl": {
+  "name": "EZ-Bar Curl",
+  "pattern": "elbow-flexion",
+  "primary": "biceps",
+  "secondary": "forearms",
+  "equipment": "barbell",
+  "setup": [
+   "Elbows pinned to your sides through the whole rep",
+   "Curl without swinging the torso",
+   "Squeeze at the top"
+  ],
+  "shouldFeel": "Tension building through the front of the upper arm start to finish.",
+  "commonFaults": [
+   {
+    "symptom": "Swinging / using momentum",
+    "fix": "Drop the weight and pause 1 second at the bottom of each rep before the next."
+   }
+  ],
+  "substitutes": [
+   "hammer-curl"
+  ]
+ },
+ "cable-tricep-pushdown": {
+  "name": "Cable Tricep Pushdown",
+  "pattern": "elbow-extension",
+  "primary": "triceps",
+  "secondary": "",
+  "equipment": "cable",
+  "setup": [
+   "Elbows pinned to your sides",
+   "Push down to full extension, control the return"
+  ],
+  "shouldFeel": "Burn along the back of the upper arm on the extension.",
+  "commonFaults": [
+   {
+    "symptom": "Shoulders/lats doing the work",
+    "fix": "Keep elbows glued to your ribs — if they drift forward, drop the weight."
+   }
+  ],
+  "substitutes": [
+   "overhead-cable-tricep-extension"
+  ]
+ },
+ "seal-row": {
+  "name": "Seal Row (chest-supported bench row)",
+  "pattern": "horizontal-pull",
+  "primary": "lats",
+  "secondary": "rhomboids, rear delts",
+  "equipment": "barbell",
+  "setup": [
+   "Chest flat on an elevated bench, feet braced",
+   "Row to the bench, elbows back",
+   "No back involvement possible by design — good on a cranky low back"
+  ],
+  "shouldFeel": "Same as chest-supported row: stretch at the bottom, squeeze under the shoulder blade.",
+  "commonFaults": [
+   {
+    "symptom": "Biceps-dominant",
+    "fix": "Lead with the elbow, think 'drag the bar up your shins in your mind's eye', not 'curl the bar'."
+   }
+  ],
+  "substitutes": [
+   "chest-supported-row",
+   "single-arm-lat-pulldown"
+  ]
+ },
+ "single-arm-lat-pulldown": {
+  "name": "Single-Arm Lat Pulldown",
+  "pattern": "vertical-pull",
+  "primary": "lats",
+  "secondary": "biceps, rear delts",
+  "equipment": "cable",
+  "setup": [
+   "One handle, seated or half-kneeling",
+   "Pull elbow down and back without rotating the torso",
+   "Control the stretch back up"
+  ],
+  "shouldFeel": "Same stretch-to-squeeze feel as the two-arm version, but nowhere for the stronger side to compensate — good pick given the left/right lat gap.",
+  "commonFaults": [
+   {
+    "symptom": "Torso twists to help",
+    "fix": "Brace against the seat or a half-kneeling position so the twist isn't available."
+   }
+  ],
+  "substitutes": [
+   "chest-supported-row",
+   "seal-row"
+  ]
+ },
+ "machine-shoulder-press": {
+  "name": "Machine Shoulder Press",
+  "pattern": "vertical-push",
+  "primary": "front/side delts",
+  "secondary": "triceps",
+  "equipment": "machine",
+  "setup": [
+   "Seat height so handles start at shoulder level",
+   "Press up along the machine's fixed path",
+   "Machines fix the bar path, which is usually the easiest option on a cranky shoulder"
+  ],
+  "shouldFeel": "Effort across the front/top of the shoulder. Pain or pinching means stop the exercise.",
+  "commonFaults": [
+   {
+    "symptom": "Still pinches at the top",
+    "fix": "Stop the exercise and record the pain. Do not use technique cues to continue through it."
+   }
+  ],
+  "substitutes": [
+   "seated-db-shoulder-press"
+  ]
+ },
+ "cable-rear-delt-fly": {
+  "name": "Cable Rear Delt Fly",
+  "pattern": "horizontal-pull",
+  "primary": "rear delts",
+  "secondary": "rhomboids",
+  "equipment": "cable",
+  "setup": [
+   "Cables crossed, slight forward lean",
+   "Sweep arms out and back, squeeze shoulder blades"
+  ],
+  "shouldFeel": "Burn across the back of the shoulder, not the traps.",
+  "commonFaults": [
+   {
+    "symptom": "Traps/upper back take over",
+    "fix": "Drop the weight and slow down; this should feel light and controlled, not heavy."
+   }
+  ],
+  "substitutes": [
+   "cable-face-pull"
+  ]
+ },
+ "hammer-curl": {
+  "name": "Hammer Curl",
+  "pattern": "elbow-flexion",
+  "primary": "biceps, forearms",
+  "secondary": "",
+  "equipment": "dumbbell",
+  "setup": [
+   "Neutral grip (palms facing in)",
+   "Elbows pinned, curl without swinging"
+  ],
+  "shouldFeel": "Tension through the outer bicep and forearm.",
+  "commonFaults": [
+   {
+    "symptom": "Swinging",
+    "fix": "Slow the tempo, drop the weight if you can't control it."
+   }
+  ],
+  "substitutes": [
+   "ez-bar-curl"
+  ]
+ },
+ "overhead-cable-tricep-extension": {
+  "name": "Overhead Cable Tricep Extension",
+  "pattern": "elbow-extension",
+  "primary": "triceps (long head)",
+  "secondary": "",
+  "equipment": "cable",
+  "setup": [
+   "Face away from the stack, rope overhead",
+   "Elbows stay high and fixed, extend forearms forward"
+  ],
+  "shouldFeel": "A deep stretch through the triceps at the bottom, burn through extension.",
+  "commonFaults": [
+   {
+    "symptom": "Elbows flare out or drop",
+    "fix": "Pin elbows beside your ears, drop the weight until you can hold that position."
+   }
+  ],
+  "substitutes": [
+   "cable-tricep-pushdown"
+  ]
+ },
+ "hip-90-90-mobility": {
+  "name": "90/90 Hip Mobility",
+  "pattern": "mobility",
+  "primary": "hip capsule",
+  "secondary": "glutes, adductors",
+  "equipment": "bodyweight",
+  "setup": [
+   "Seated on the floor, front leg bent 90°, back leg bent 90° behind you",
+   "Lean forward over the front shin, hold, then rotate through to switch sides",
+   "Not a lifting movement — logged as a set but it's a warm-up/mobility block"
+  ],
+  "shouldFeel": "A stretch through the outer hip and glute of the front leg, deeper the more restricted that side is.",
+  "commonFaults": [
+   {
+    "symptom": "No stretch felt at all on the tight side",
+    "fix": "This matches a hip restriction that hasn't responded to stretching alone — worth flagging to a physio rather than pushing harder here."
+   }
+  ],
+  "substitutes": [
+   "cable-pallof-press"
+  ]
+ },
+ "leg-press": {
+  "name": "Leg Press",
+  "pattern": "squat",
+  "primary": "quads",
+  "secondary": "glutes",
+  "equipment": "machine",
+  "setup": [
+   "Feet mid-platform, shoulder width",
+   "Lower until knees hit a comfortable depth, don't let the lower back round off the pad",
+   "Press through the whole foot"
+  ],
+  "shouldFeel": "Quads doing the work, lower back staying flat against the pad the whole set.",
+  "commonFaults": [
+   {
+    "symptom": "Lower back rounds at the bottom",
+    "fix": "Shallow the depth until the back stays flat — depth isn't worth it if the back peels off the pad."
+   },
+   {
+    "symptom": "Knees cave in",
+    "fix": "Push knees out in line with your toes throughout."
+   }
+  ],
+  "substitutes": [
+   "front-foot-elevated-split-squat"
+  ]
+ },
+ "hip-thrust": {
+  "name": "Hip Thrust",
+  "pattern": "hip-hinge",
+  "primary": "glutes",
+  "secondary": "hamstrings",
+  "equipment": "barbell",
+  "setup": [
+   "Upper back on the bench, bar over hips",
+   "Drive through heels, squeeze glutes hard at the top",
+   "Chin tucked, ribs down — don't hyperextend the lower back at the top"
+  ],
+  "shouldFeel": "A hard glute squeeze at the top, not a lower-back arch — a spine-friendlier way to load the hip hinge than a deadlift variant.",
+  "commonFaults": [
+   {
+    "symptom": "Lower back arches and takes over at the top",
+    "fix": "Stop the rep just before full hip extension and tuck the chin/ribs down; squeeze glutes rather than pushing the hips further."
+   }
+  ],
+  "substitutes": [
+   "seated-leg-curl"
+  ]
+ },
+ "seated-leg-curl": {
+  "name": "Seated Leg Curl",
+  "pattern": "knee-flexion",
+  "primary": "hamstrings",
+  "secondary": "",
+  "equipment": "machine",
+  "setup": [
+   "Pad snug above the heel",
+   "Curl through a full range, control the return"
+  ],
+  "shouldFeel": "Burn through the back of the thigh, no lower back involvement.",
+  "commonFaults": [
+   {
+    "symptom": "Hips lift off the pad",
+    "fix": "Drop the weight and tighten the lap belt/thigh pad if the machine has one."
+   }
+  ],
+  "substitutes": [
+   "hip-thrust"
+  ]
+ },
+ "standing-calf-raise": {
+  "name": "Standing Calf Raise",
+  "pattern": "ankle-extension",
+  "primary": "calves",
+  "secondary": "",
+  "equipment": "machine",
+  "setup": [
+   "Full stretch at the bottom, full extension at the top",
+   "Pause briefly at the top squeeze"
+  ],
+  "shouldFeel": "Burn through the calf at full contraction.",
+  "commonFaults": [
+   {
+    "symptom": "Bouncing through a small range",
+    "fix": "Slow down, use the full range, add a 1-second pause at the top."
+   }
+  ],
+  "substitutes": []
+ },
+ "cable-pallof-press": {
+  "name": "Cable Pallof Press",
+  "pattern": "anti-rotation-core",
+  "primary": "obliques, deep core",
+  "secondary": "",
+  "equipment": "cable",
+  "setup": [
+   "Cable at chest height, stand side-on to the stack",
+   "Press the handle straight out from your chest and resist the pull rotating you"
+  ],
+  "shouldFeel": "Bracing through the whole core to resist twisting — a good low-back-friendly core option.",
+  "commonFaults": [
+   {
+    "symptom": "Hips/torso rotate toward the stack",
+    "fix": "Drop the weight and widen your stance for a more stable base."
+   }
+  ],
+  "substitutes": [
+   "dead-bug",
+   "side-plank"
+  ]
+ },
+ "side-plank": {
+  "name": "Side Plank",
+  "pattern": "anti-lateral-flexion-core",
+  "primary": "obliques",
+  "secondary": "glute medius",
+  "equipment": "bodyweight",
+  "setup": [
+   "Elbow under shoulder, body in a straight line",
+   "Hips lifted, not sagging"
+  ],
+  "shouldFeel": "A burn along the side of the waist, hips staying level throughout.",
+  "commonFaults": [
+   {
+    "symptom": "Hips sag / rotate forward",
+    "fix": "Drop to knees-bent version until the straight-line hold is solid."
+   }
+  ],
+  "substitutes": [
+   "cable-pallof-press",
+   "dead-bug"
+  ]
+ },
+ "front-foot-elevated-split-squat": {
+  "name": "Front-Foot-Elevated Split Squat",
+  "pattern": "single-leg-squat",
+  "primary": "quads, glutes",
+  "secondary": "adductors",
+  "equipment": "dumbbell",
+  "setup": [
+   "Front foot on a small plate/step, back foot behind on the floor",
+   "Drop straight down, torso upright",
+   "Unilateral — good for addressing side-to-side imbalance and works well within a hip restriction since range is self-limited"
+  ],
+  "shouldFeel": "Front thigh and glute doing the work, minimal back-leg involvement.",
+  "commonFaults": [
+   {
+    "symptom": "Back knee slams the floor / loses balance",
+    "fix": "Shorten the stance slightly and go to a comfortable depth, not max depth."
+   }
+  ],
+  "substitutes": [
+   "leg-press",
+   "walking-lunge"
+  ]
+ },
+ "walking-lunge": {
+  "name": "Walking Lunge",
+  "pattern": "single-leg-squat",
+  "primary": "quads, glutes",
+  "secondary": "hamstrings",
+  "equipment": "dumbbell",
+  "setup": [
+   "Step forward, drop the back knee toward the floor",
+   "Push through the front heel to the next step"
+  ],
+  "shouldFeel": "Front leg doing the work through the whole step.",
+  "commonFaults": [
+   {
+    "symptom": "Front knee drifts past the toes and feels unstable",
+    "fix": "Take a slightly longer step."
+   }
+  ],
+  "substitutes": [
+   "front-foot-elevated-split-squat"
+  ]
+ },
+ "hip-abduction-machine": {
+  "name": "Hip Abduction Machine",
+  "pattern": "hip-abduction",
+  "primary": "glute medius",
+  "secondary": "",
+  "equipment": "machine",
+  "setup": [
+   "Seated, pads on the outside of the knees",
+   "Push knees apart against the resistance, control the return"
+  ],
+  "shouldFeel": "Burn on the outside of the hip.",
+  "commonFaults": [
+   {
+    "symptom": "Torso rocks to help",
+    "fix": "Drop the weight, sit flat against the backrest."
+   }
+  ],
+  "substitutes": []
+ },
+ "dead-bug": {
+  "name": "Dead Bug",
+  "pattern": "anti-extension-core",
+  "primary": "deep core",
+  "secondary": "",
+  "equipment": "bodyweight",
+  "setup": [
+   "On your back, knees at 90°, arms up",
+   "Lower opposite arm and leg while keeping the lower back flat on the floor",
+   "The low back staying pinned to the floor is the whole point of the exercise"
+  ],
+  "shouldFeel": "Core bracing to keep the lower back flat — if the back arches off the floor, the range was too big.",
+  "commonFaults": [
+   {
+    "symptom": "Lower back lifts off the floor",
+    "fix": "Shorten the range of the reaching arm/leg until the back stays flat."
+   }
+  ],
+  "substitutes": [
+   "cable-pallof-press",
+   "side-plank"
+  ]
+ },
+ "incline-db-press": {
+  "name": "Incline Dumbbell Press",
+  "pattern": "incline-push",
+  "primary": "upper chest",
+  "secondary": "front delts, triceps",
+  "equipment": "dumbbell",
+  "setup": [
+   "Bench at 30-45°",
+   "Control the lowering phase; stop the exercise if you feel pain or pinching"
+  ],
+  "shouldFeel": "Stretch across the upper chest at the bottom, pressure through upper chest/front delt on the way up.",
+  "commonFaults": [
+   {
+    "symptom": "Shoulder pinches at the bottom",
+    "fix": "Stop the exercise and record the pain. Do not use technique cues to continue through it."
+   }
+  ],
+  "substitutes": [
+   "flat-db-press",
+   "machine-shoulder-press"
+  ]
+ },
+ "barbell-bench-press": {
+  "name": "Barbell Bench Press",
+  "pattern": "horizontal-push",
+  "primary": "mid chest",
+  "secondary": "front delts, triceps",
+  "equipment": "barbell",
+  "setup": [
+   "Eyes under the bar and shoulder blades set back",
+   "Lower toward the lower chest with forearms vertical",
+   "Press up while keeping feet and upper back planted"
+  ],
+  "shouldFeel": "Chest driving the bar away with stable shoulders and firm leg support.",
+  "commonFaults": [],
+  "substitutes": [
+   "flat-db-press",
+   "machine-chest-press"
+  ]
+ },
+ "machine-chest-press": {
+  "name": "Machine Chest Press",
+  "pattern": "horizontal-push",
+  "primary": "mid chest",
+  "secondary": "front delts, triceps",
+  "equipment": "machine",
+  "setup": [
+   "Set the seat so handles line up with mid chest",
+   "Keep shoulder blades against the pad",
+   "Press with control; stop the exercise if you feel pain"
+  ],
+  "shouldFeel": "Even pressure across the chest with the machine supporting the movement path.",
+  "commonFaults": [],
+  "substitutes": [
+   "flat-db-press",
+   "barbell-bench-press"
+  ]
+ },
+ "cable-chest-fly": {
+  "name": "Cable Chest Fly",
+  "pattern": "chest-adduction",
+  "primary": "mid chest",
+  "secondary": "front delts",
+  "equipment": "cable",
+  "setup": [
+   "Handles just below shoulder height",
+   "Keep a soft fixed bend in the elbows",
+   "Bring upper arms together without shrugging"
+  ],
+  "shouldFeel": "The chest shortening as the arms sweep inward, with tension maintained at the finish.",
+  "commonFaults": [],
+  "substitutes": [
+   "flat-db-press"
+  ]
+ },
+ "low-to-high-cable-fly": {
+  "name": "Low-to-High Cable Fly",
+  "pattern": "incline-chest-adduction",
+  "primary": "upper chest",
+  "secondary": "front delts",
+  "equipment": "cable",
+  "setup": [
+   "Set cables low and step slightly forward",
+   "Sweep hands upward toward upper-chest height",
+   "Keep ribs down and shoulders away from ears"
+  ],
+  "shouldFeel": "Tension travelling upward across the upper chest rather than into the neck.",
+  "commonFaults": [],
+  "substitutes": [
+   "incline-db-press"
+  ]
+ },
+ "half-kneeling-landmine-press": {
+  "name": "Half-Kneeling Landmine Press",
+  "pattern": "vertical-push",
+  "primary": "front delts",
+  "secondary": "upper chest, triceps, core",
+  "equipment": "barbell",
+  "setup": [
+   "Kneel opposite the pressing arm",
+   "Brace before pressing up and forward",
+   "Let the shoulder blade rotate naturally"
+  ],
+  "shouldFeel": "Front shoulder and upper chest working without an overhead pinch.",
+  "commonFaults": [],
+  "substitutes": [
+   "seated-db-shoulder-press"
+  ]
+ },
+ "cable-lateral-raise": {
+  "name": "Single-Arm Cable Lateral Raise",
+  "pattern": "shoulder-isolation",
+  "primary": "side delts",
+  "secondary": "traps",
+  "equipment": "cable",
+  "setup": [
+   "Cable starts across the body",
+   "Lead outward with the elbow",
+   "Stop around shoulder height without shrugging"
+  ],
+  "shouldFeel": "Continuous tension on the outside of the shoulder.",
+  "commonFaults": [],
+  "substitutes": [
+   "db-lateral-raise"
+  ]
+ },
+ "reverse-pec-deck": {
+  "name": "Reverse Pec Deck",
+  "pattern": "rear-delt-isolation",
+  "primary": "rear delts",
+  "secondary": "rhomboids",
+  "equipment": "machine",
+  "setup": [
+   "Chest stays against the pad",
+   "Keep elbows level with the rear shoulders",
+   "Open the arms without arching the back"
+  ],
+  "shouldFeel": "A controlled burn behind the shoulders with only a light shoulder-blade squeeze.",
+  "commonFaults": [],
+  "substitutes": [
+   "cable-rear-delt-fly"
+  ]
+ },
+ "prone-y-raise": {
+  "name": "Prone Y Raise",
+  "pattern": "scapular-raise",
+  "primary": "lower traps",
+  "secondary": "rear delts, rotator cuff",
+  "equipment": "dumbbell",
+  "setup": [
+   "Lie chest-down on a low incline bench",
+   "Raise light weights in a Y shape",
+   "Keep shoulders down as thumbs point upward"
+  ],
+  "shouldFeel": "A light contraction between and below the shoulder blades, away from the neck.",
+  "commonFaults": [],
+  "substitutes": [
+   "cable-face-pull"
+  ]
+ },
+ "db-shrug": {
+  "name": "Dumbbell Shrug",
+  "pattern": "scapular-elevation",
+  "primary": "upper traps",
+  "secondary": "forearms",
+  "equipment": "dumbbell",
+  "setup": [
+   "Stand tall with weights beside the thighs",
+   "Lift shoulders straight toward the ears",
+   "Pause briefly, then lower under control"
+  ],
+  "shouldFeel": "The upper traps shortening directly above the shoulder blades.",
+  "commonFaults": [],
+  "substitutes": []
+ },
+ "incline-db-curl": {
+  "name": "Incline Dumbbell Curl",
+  "pattern": "elbow-flexion",
+  "primary": "biceps long head",
+  "secondary": "forearms",
+  "equipment": "dumbbell",
+  "setup": [
+   "Set bench to a moderate incline",
+   "Let arms hang behind the torso",
+   "Curl without moving the upper arms forward"
+  ],
+  "shouldFeel": "A long stretch and contraction through the outer portion of the biceps.",
+  "commonFaults": [],
+  "substitutes": [
+   "ez-bar-curl"
+  ]
+ },
+ "preacher-curl": {
+  "name": "Preacher Curl",
+  "pattern": "elbow-flexion",
+  "primary": "biceps short head",
+  "secondary": "forearms",
+  "equipment": "machine",
+  "setup": [
+   "Place the whole upper arm on the pad",
+   "Start just short of a hard elbow lockout",
+   "Curl without lifting the elbows"
+  ],
+  "shouldFeel": "Strong biceps tension with the upper arms fixed in place.",
+  "commonFaults": [],
+  "substitutes": [
+   "ez-bar-curl"
+  ]
+ },
+ "concentration-curl": {
+  "name": "Concentration Curl",
+  "pattern": "elbow-flexion",
+  "primary": "biceps",
+  "secondary": "forearms",
+  "equipment": "dumbbell",
+  "setup": [
+   "Brace the upper arm against the inner thigh",
+   "Curl slowly through a comfortable range",
+   "Pause at the top without rotating the torso"
+  ],
+  "shouldFeel": "A focused contraction through one biceps at a time.",
+  "commonFaults": [],
+  "substitutes": [
+   "hammer-curl"
+  ]
+ },
+ "overhead-db-tricep-extension": {
+  "name": "Overhead Dumbbell Tricep Extension",
+  "pattern": "overhead-elbow-extension",
+  "primary": "triceps long head",
+  "secondary": "core",
+  "equipment": "dumbbell",
+  "setup": [
+   "Hold one dumbbell securely overhead",
+   "Keep elbows aimed forward",
+   "Lower behind the head, then extend without flaring"
+  ],
+  "shouldFeel": "A stretch and contraction along the long inner portion of the triceps.",
+  "commonFaults": [],
+  "substitutes": [
+   "overhead-cable-tricep-extension"
+  ]
+ },
+ "ez-bar-skull-crusher": {
+  "name": "EZ-Bar Skull Crusher",
+  "pattern": "lying-elbow-extension",
+  "primary": "triceps long head",
+  "secondary": "triceps lateral head",
+  "equipment": "barbell",
+  "setup": [
+   "Lie flat with upper arms angled slightly back",
+   "Bend only at the elbows",
+   "Extend while keeping shoulders stable"
+  ],
+  "shouldFeel": "The triceps lengthening behind the head and driving the forearms upward.",
+  "commonFaults": [],
+  "substitutes": [
+   "overhead-cable-tricep-extension"
+  ]
+ },
+ "assisted-pull-up": {
+  "name": "Assisted Pull-Up",
+  "pattern": "vertical-pull",
+  "primary": "lats",
+  "secondary": "biceps, lower traps",
+  "equipment": "machine",
+  "setup": [
+   "Use enough assistance for controlled reps",
+   "Begin by drawing shoulders down",
+   "Pull elbows toward the ribs without swinging"
+  ],
+  "shouldFeel": "The sides of the back pulling the upper arms down toward the torso.",
+  "commonFaults": [],
+  "substitutes": [
+   "lat-pulldown-wide"
+  ]
+ },
+ "straight-arm-pulldown": {
+  "name": "Straight-Arm Cable Pulldown",
+  "pattern": "shoulder-extension",
+  "primary": "lats",
+  "secondary": "long-head triceps, core",
+  "equipment": "cable",
+  "setup": [
+   "Hinge slightly with arms nearly straight",
+   "Pull the bar toward the thighs",
+   "Keep ribs down and avoid turning it into a tricep press"
+  ],
+  "shouldFeel": "The lats shortening from the armpits down the sides of the torso.",
+  "commonFaults": [],
+  "substitutes": [
+   "single-arm-lat-pulldown"
+  ]
+ },
+ "single-arm-db-row": {
+  "name": "Single-Arm Dumbbell Row",
+  "pattern": "horizontal-pull",
+  "primary": "rhomboids, lats",
+  "secondary": "rear delts, biceps",
+  "equipment": "dumbbell",
+  "setup": [
+   "Support the free hand on a bench",
+   "Keep hips and shoulders square",
+   "Row toward the hip and pause without twisting"
+  ],
+  "shouldFeel": "The shoulder blade moving toward the spine and the lat tightening near the armpit.",
+  "commonFaults": [],
+  "substitutes": [
+   "chest-supported-row"
+  ]
+ },
+ "cable-crunch": {
+  "name": "Kneeling Cable Crunch",
+  "pattern": "spinal-flexion-core",
+  "primary": "abs",
+  "secondary": "obliques",
+  "equipment": "cable",
+  "setup": [
+   "Kneel with rope beside the head",
+   "Bring ribs toward the pelvis",
+   "Keep hips mostly fixed while the torso curls"
+  ],
+  "shouldFeel": "The abdominal wall shortening without pulling mainly through the arms or hips.",
+  "commonFaults": [],
+  "substitutes": [
+   "dead-bug"
+  ],
+  "caution": "Loaded spinal flexion."
+ },
+ "hanging-knee-raise": {
+  "name": "Hanging Knee Raise",
+  "pattern": "hip-flexion-core",
+  "primary": "lower abs",
+  "secondary": "hip flexors, obliques",
+  "equipment": "bodyweight",
+  "setup": [
+   "Hang with shoulders active",
+   "Curl the pelvis as knees rise",
+   "Lower without swinging"
+  ],
+  "shouldFeel": "The lower abdominal area drawing the pelvis upward, with controlled hip flexor help.",
+  "commonFaults": [],
+  "substitutes": [
+   "dead-bug"
+  ]
+ },
+ "cable-woodchop": {
+  "name": "Cable Woodchop",
+  "pattern": "rotation-core",
+  "primary": "obliques",
+  "secondary": "deep core, shoulders",
+  "equipment": "cable",
+  "setup": [
+   "Stand side-on with both hands on the handle",
+   "Rotate through the upper torso under control",
+   "Keep knees and feet stable"
+  ],
+  "shouldFeel": "The side abdominal wall controlling rotation across the torso.",
+  "commonFaults": [],
+  "substitutes": [
+   "cable-pallof-press"
+  ]
+ },
+ "ab-wheel-rollout": {
+  "name": "Ab Wheel Rollout",
+  "pattern": "anti-extension-core",
+  "primary": "abs, deep core",
+  "secondary": "lats, shoulders",
+  "equipment": "ab wheel",
+  "setup": [
+   "Start kneeling with ribs tucked",
+   "Roll only as far as the lower back stays neutral",
+   "Pull back using the abs and lats"
+  ],
+  "shouldFeel": "A strong full-abdominal brace without pressure in the lower back.",
+  "commonFaults": [],
+  "substitutes": [
+   "dead-bug"
+  ]
+ },
+ "romanian-deadlift": {
+  "name": "Romanian Deadlift",
+  "pattern": "hip-hinge",
+  "primary": "hamstrings",
+  "secondary": "glute max, spinal erectors",
+  "equipment": "barbell",
+  "setup": [
+   "Begin tall with a soft knee bend",
+   "Push hips back while the bar stays close",
+   "Stop before the lower back rounds, then stand through the hips"
+  ],
+  "shouldFeel": "A loaded stretch through the hamstrings and glutes with the torso held rigid.",
+  "commonFaults": [
+   {
+    "symptom": "Lower-back discomfort",
+    "fix": "Stop the set and choose a supported leg curl or hip thrust instead."
+   }
+  ],
+  "substitutes": [
+   "seated-leg-curl",
+   "hip-thrust"
+  ],
+  "caution": "Heavy hip hinge — loads the lower back."
+ },
+ "lying-leg-curl": {
+  "name": "Lying Leg Curl",
+  "pattern": "knee-flexion",
+  "primary": "hamstrings",
+  "secondary": "calves",
+  "equipment": "machine",
+  "setup": [
+   "Align knees with the machine pivot",
+   "Keep hips pressed into the pad",
+   "Curl smoothly and control the return"
+  ],
+  "shouldFeel": "The back of the thighs shortening without the hips lifting.",
+  "commonFaults": [],
+  "substitutes": [
+   "seated-leg-curl"
+  ]
+ },
+ "leg-extension": {
+  "name": "Leg Extension",
+  "pattern": "knee-extension",
+  "primary": "quads",
+  "secondary": "",
+  "equipment": "machine",
+  "setup": [
+   "Align knees with the machine pivot",
+   "Extend to a comfortable straight position",
+   "Lower slowly without letting the stack slam"
+  ],
+  "shouldFeel": "A concentrated contraction across the front of the thighs.",
+  "commonFaults": [],
+  "substitutes": [
+   "leg-press"
+  ]
+ },
+ "hack-squat": {
+  "name": "Hack Squat",
+  "pattern": "squat",
+  "primary": "quads",
+  "secondary": "glute max, adductors",
+  "equipment": "machine",
+  "setup": [
+   "Set feet where knees track comfortably over toes",
+   "Keep back and hips against the pad",
+   "Descend only as far as position stays stable"
+  ],
+  "shouldFeel": "The quads carrying most of the load with support from the glutes.",
+  "commonFaults": [],
+  "substitutes": [
+   "leg-press"
+  ]
+ },
+ "cable-glute-kickback": {
+  "name": "Cable Glute Kickback",
+  "pattern": "hip-extension",
+  "primary": "glute max",
+  "secondary": "hamstrings",
+  "equipment": "cable",
+  "setup": [
+   "Attach an ankle cuff and brace the torso",
+   "Drive the leg back from the hip",
+   "Stop before the lower back arches"
+  ],
+  "shouldFeel": "A focused squeeze through the working-side glute.",
+  "commonFaults": [],
+  "substitutes": [
+   "hip-thrust"
+  ]
+ },
+ "barbell-glute-bridge": {
+  "name": "Barbell Glute Bridge",
+  "pattern": "hip-extension",
+  "primary": "glute max",
+  "secondary": "hamstrings",
+  "equipment": "barbell",
+  "setup": [
+   "Lie with upper back and feet on the floor",
+   "Brace before driving hips upward",
+   "Finish with glutes rather than arching the spine"
+  ],
+  "shouldFeel": "A strong glute contraction at the top with little lower-back movement.",
+  "commonFaults": [],
+  "substitutes": [
+   "hip-thrust"
+  ]
+ },
+ "cable-hip-abduction": {
+  "name": "Standing Cable Hip Abduction",
+  "pattern": "hip-abduction",
+  "primary": "glute medius",
+  "secondary": "glute minimus",
+  "equipment": "cable",
+  "setup": [
+   "Attach an ankle cuff and stand tall",
+   "Move the leg slightly out and back",
+   "Keep the pelvis level and torso still"
+  ],
+  "shouldFeel": "A burn along the outer upper glute of the moving leg.",
+  "commonFaults": [],
+  "substitutes": [
+   "hip-abduction-machine"
+  ]
+ },
+ "seated-calf-raise": {
+  "name": "Seated Calf Raise",
+  "pattern": "ankle-extension",
+  "primary": "calves (soleus)",
+  "secondary": "",
+  "equipment": "machine",
+  "setup": [
+   "Place pads securely above the knees",
+   "Lower heels into a full stretch",
+   "Drive through the balls of the feet and pause"
+  ],
+  "shouldFeel": "A deep burn lower in the calf, especially with the knees bent.",
+  "commonFaults": [],
+  "substitutes": [
+   "standing-calf-raise"
+  ]
+ },
+ "single-leg-calf-raise": {
+  "name": "Single-Leg Calf Raise",
+  "pattern": "ankle-extension",
+  "primary": "calves",
+  "secondary": "foot stabilisers",
+  "equipment": "bodyweight",
+  "setup": [
+   "Use light hand support for balance",
+   "Drop the heel into a controlled stretch",
+   "Rise fully onto the ball of one foot"
+  ],
+  "shouldFeel": "The calf working through a full range without bouncing.",
+  "commonFaults": [],
+  "substitutes": [
+   "standing-calf-raise"
+  ]
+ },
+ "conventional-deadlift": {
+  "name": "Deadlift (Conventional)",
+  "pattern": "hip-hinge",
+  "primary": "glute max, hamstrings",
+  "secondary": "spinal erectors, traps, forearms",
+  "equipment": "barbell",
+  "setup": [
+   "Bar over mid-foot, shins close",
+   "Brace hard, pull the slack out of the bar",
+   "Push the floor away and stand tall; lower with control"
+  ],
+  "shouldFeel": "Hamstrings and glutes driving the lift, upper back tight, grip working.",
+  "commonFaults": [
+   {
+    "symptom": "Back rounds off the floor",
+    "fix": "Lighter load, pull slack out first, or switch to trap-bar."
+   }
+  ],
+  "substitutes": [
+   "trap-bar-deadlift",
+   "romanian-deadlift",
+   "hip-thrust"
+  ],
+  "caution": "Heavy spinal loading — keep a neutral back and stop the set if your lower back takes over."
+ },
+ "trap-bar-deadlift": {
+  "name": "Trap-Bar Deadlift",
+  "pattern": "hip-hinge",
+  "primary": "quads, glute max",
+  "secondary": "hamstrings, traps",
+  "equipment": "trap bar",
+  "setup": [
+   "Stand centred in the bar, handles at your sides",
+   "Hips a little lower than a conventional pull, chest up",
+   "Drive through the whole foot to stand"
+  ],
+  "shouldFeel": "A leg-driven pull — quads and glutes working, back staying neutral.",
+  "commonFaults": [],
+  "substitutes": [
+   "conventional-deadlift",
+   "leg-press",
+   "hip-thrust"
+  ],
+  "caution": "Heavy pull — easier on the lower back than a straight bar, but still brace."
+ },
+ "sumo-deadlift": {
+  "name": "Sumo Deadlift",
+  "pattern": "hip-hinge",
+  "primary": "glute max, adductors",
+  "secondary": "quads, hamstrings, spinal erectors",
+  "equipment": "barbell",
+  "setup": [
+   "Wide stance, toes out, hands inside the knees",
+   "Push knees out over the toes",
+   "Wedge hips to the bar and stand up"
+  ],
+  "shouldFeel": "Inner thighs and glutes doing most of the work with a more upright torso.",
+  "commonFaults": [],
+  "substitutes": [
+   "trap-bar-deadlift",
+   "conventional-deadlift"
+  ],
+  "caution": "Heavy spinal loading — keep a neutral back and stop the set if your lower back takes over."
+ },
+ "db-romanian-deadlift": {
+  "name": "Dumbbell Romanian Deadlift",
+  "pattern": "hip-hinge",
+  "primary": "hamstrings",
+  "secondary": "glute max, spinal erectors",
+  "equipment": "dumbbell",
+  "setup": [
+   "Dumbbells in front of the thighs, soft knees",
+   "Hips back, dumbbells slide down the legs",
+   "Stop at a hamstring stretch, stand through the hips"
+  ],
+  "shouldFeel": "A stretch down the back of the legs, back staying flat.",
+  "commonFaults": [],
+  "substitutes": [
+   "romanian-deadlift",
+   "seated-leg-curl"
+  ],
+  "caution": "Hip hinge — loads the lower back; keep it lighter than you think."
+ },
+ "rack-pull": {
+  "name": "Rack Pull",
+  "pattern": "hip-hinge",
+  "primary": "glute max, upper back",
+  "secondary": "spinal erectors, traps, forearms",
+  "equipment": "barbell",
+  "setup": [
+   "Bar set just below or above the knee in the rack",
+   "Brace and squeeze the bar",
+   "Lock out hips and knees together"
+  ],
+  "shouldFeel": "Upper back, traps and glutes holding a heavy lockout.",
+  "commonFaults": [],
+  "substitutes": [
+   "conventional-deadlift",
+   "db-shrug"
+  ],
+  "caution": "Heavy spinal loading — keep a neutral back and stop the set if your lower back takes over."
+ },
+ "good-morning": {
+  "name": "Good Morning",
+  "pattern": "hip-hinge",
+  "primary": "hamstrings",
+  "secondary": "glute max, spinal erectors",
+  "equipment": "barbell",
+  "setup": [
+   "Bar on the upper back like a squat",
+   "Soft knees, push the hips back",
+   "Stop at a hamstring stretch, drive hips forward"
+  ],
+  "shouldFeel": "Hamstring stretch with the torso staying rigid.",
+  "commonFaults": [],
+  "substitutes": [
+   "romanian-deadlift",
+   "back-extension"
+  ],
+  "caution": "Heavy spinal loading — keep a neutral back and stop the set if your lower back takes over."
+ },
+ "kettlebell-swing": {
+  "name": "Kettlebell Swing",
+  "pattern": "hip-hinge",
+  "primary": "glute max, hamstrings",
+  "secondary": "core, shoulders",
+  "equipment": "kettlebell",
+  "setup": [
+   "Hike the bell back between the legs",
+   "Snap the hips forward to float it to chest height",
+   "Let it fall and hinge again — arms just guide"
+  ],
+  "shouldFeel": "A sharp glute squeeze at the top; arms relaxed.",
+  "commonFaults": [],
+  "substitutes": [
+   "hip-thrust",
+   "db-romanian-deadlift"
+  ],
+  "caution": "Ballistic hinge — keep the back flat; stop if it's the lower back working."
+ },
+ "back-extension": {
+  "name": "45° Back Extension",
+  "pattern": "hip-extension",
+  "primary": "glute max, spinal erectors",
+  "secondary": "hamstrings",
+  "equipment": "bodyweight",
+  "setup": [
+   "Pad just below the hip crease",
+   "Lower with a flat back",
+   "Squeeze glutes to come up level — don't hyperextend"
+  ],
+  "shouldFeel": "Glutes and lower back working together, no pinch at the top.",
+  "commonFaults": [],
+  "substitutes": [
+   "hip-thrust",
+   "good-morning"
+  ],
+  "caution": "Lower-back loading — go bodyweight first."
+ },
+ "glute-ham-raise": {
+  "name": "Glute-Ham Raise",
+  "pattern": "knee-flexion",
+  "primary": "hamstrings",
+  "secondary": "glute max, calves",
+  "equipment": "bodyweight",
+  "setup": [
+   "Feet locked, knees just behind the pad",
+   "Lower slowly with a straight hip line",
+   "Curl back up using the hamstrings"
+  ],
+  "shouldFeel": "Hamstrings working hard at both ends of the knee.",
+  "commonFaults": [],
+  "substitutes": [
+   "lying-leg-curl",
+   "seated-leg-curl"
+  ]
+ },
+ "nordic-curl": {
+  "name": "Nordic Hamstring Curl",
+  "pattern": "knee-flexion",
+  "primary": "hamstrings",
+  "secondary": "calves",
+  "equipment": "bodyweight",
+  "setup": [
+   "Kneel with ankles anchored",
+   "Lower the body as slowly as possible, hips straight",
+   "Catch with hands and push back up"
+  ],
+  "shouldFeel": "Hamstrings braking the fall — very demanding.",
+  "commonFaults": [],
+  "substitutes": [
+   "glute-ham-raise",
+   "lying-leg-curl"
+  ]
+ },
+ "barbell-back-squat": {
+  "name": "Barbell Back Squat",
+  "pattern": "squat",
+  "primary": "quads, glute max",
+  "secondary": "adductors, spinal erectors",
+  "equipment": "barbell",
+  "setup": [
+   "Bar on the upper back, brace before you unrack",
+   "Sit down between the hips, knees track over toes",
+   "Drive up keeping the chest and hips rising together"
+  ],
+  "shouldFeel": "Quads and glutes; torso staying braced.",
+  "commonFaults": [],
+  "substitutes": [
+   "hack-squat",
+   "leg-press",
+   "goblet-squat"
+  ],
+  "caution": "Heavy spinal loading — keep a neutral back and stop the set if your lower back takes over."
+ },
+ "front-squat": {
+  "name": "Front Squat",
+  "pattern": "squat",
+  "primary": "quads",
+  "secondary": "glute max, upper back, core",
+  "equipment": "barbell",
+  "setup": [
+   "Bar on the front delts, elbows high",
+   "Sit straight down, torso upright",
+   "Drive up leading with the elbows"
+  ],
+  "shouldFeel": "Mostly quads, upper back working to keep the bar on.",
+  "commonFaults": [],
+  "substitutes": [
+   "goblet-squat",
+   "hack-squat"
+  ],
+  "caution": "Loads the spine — more upright than a back squat."
+ },
+ "goblet-squat": {
+  "name": "Goblet Squat",
+  "pattern": "squat",
+  "primary": "quads",
+  "secondary": "glute max, core",
+  "equipment": "dumbbell",
+  "setup": [
+   "Hold a dumbbell at the chest",
+   "Squat between the knees, elbows inside them",
+   "Stand tall and squeeze glutes"
+  ],
+  "shouldFeel": "Quads working through a deep, upright squat.",
+  "commonFaults": [],
+  "substitutes": [
+   "leg-press",
+   "front-squat"
+  ]
+ },
+ "smith-machine-squat": {
+  "name": "Smith Machine Squat",
+  "pattern": "squat",
+  "primary": "quads",
+  "secondary": "glute max",
+  "equipment": "machine",
+  "setup": [
+   "Feet slightly in front of the bar",
+   "Sit down under control",
+   "Drive up through the mid-foot"
+  ],
+  "shouldFeel": "Quads with less balance demand.",
+  "commonFaults": [],
+  "substitutes": [
+   "hack-squat",
+   "leg-press"
+  ]
+ },
+ "pendulum-squat": {
+  "name": "Pendulum Squat",
+  "pattern": "squat",
+  "primary": "quads",
+  "secondary": "glute max",
+  "equipment": "machine",
+  "setup": [
+   "Back flat on the pad, feet mid-platform",
+   "Sink deep under control",
+   "Push up without locking out hard"
+  ],
+  "shouldFeel": "Deep quad stretch with a supported back.",
+  "commonFaults": [],
+  "substitutes": [
+   "hack-squat",
+   "leg-press"
+  ]
+ },
+ "belt-squat": {
+  "name": "Belt Squat",
+  "pattern": "squat",
+  "primary": "quads, glute max",
+  "secondary": "adductors",
+  "equipment": "machine",
+  "setup": [
+   "Belt around the hips, stand on the platform",
+   "Squat straight down",
+   "Drive up through the whole foot"
+  ],
+  "shouldFeel": "Legs working with no load on the spine.",
+  "commonFaults": [],
+  "substitutes": [
+   "leg-press",
+   "hack-squat"
+  ]
+ },
+ "bulgarian-split-squat": {
+  "name": "Bulgarian Split Squat",
+  "pattern": "single-leg-squat",
+  "primary": "quads, glute max",
+  "secondary": "adductors",
+  "equipment": "dumbbell",
+  "setup": [
+   "Rear foot on a bench, front foot a stride ahead",
+   "Drop the back knee straight down",
+   "Drive through the front foot"
+  ],
+  "shouldFeel": "Front-leg quad and glute; balance steady.",
+  "commonFaults": [],
+  "substitutes": [
+   "front-foot-elevated-split-squat",
+   "walking-lunge"
+  ]
+ },
+ "reverse-lunge": {
+  "name": "Reverse Lunge",
+  "pattern": "single-leg-squat",
+  "primary": "quads, glute max",
+  "secondary": "adductors",
+  "equipment": "dumbbell",
+  "setup": [
+   "Step back into a lunge",
+   "Back knee just above the floor",
+   "Push through the front heel to return"
+  ],
+  "shouldFeel": "Front-leg glute and quad, knee comfortable.",
+  "commonFaults": [],
+  "substitutes": [
+   "walking-lunge",
+   "bulgarian-split-squat"
+  ]
+ },
+ "step-up": {
+  "name": "Dumbbell Step-Up",
+  "pattern": "single-leg-squat",
+  "primary": "quads, glute max",
+  "secondary": "calves",
+  "equipment": "dumbbell",
+  "setup": [
+   "Whole foot on a knee-height box",
+   "Drive up through that foot, no push off the back leg",
+   "Lower slowly"
+  ],
+  "shouldFeel": "Working leg doing the lift.",
+  "commonFaults": [],
+  "substitutes": [
+   "bulgarian-split-squat",
+   "reverse-lunge"
+  ]
+ },
+ "sissy-squat": {
+  "name": "Sissy Squat",
+  "pattern": "knee-extension",
+  "primary": "quads",
+  "secondary": "core",
+  "equipment": "bodyweight",
+  "setup": [
+   "Hold a support, rise onto the toes",
+   "Lean back as the knees travel forward",
+   "Stand back up through the quads"
+  ],
+  "shouldFeel": "A big quad stretch above the knee.",
+  "commonFaults": [],
+  "substitutes": [
+   "leg-extension"
+  ],
+  "caution": "Lots of knee flexion — skip if knees complain."
+ },
+ "hip-adduction-machine": {
+  "name": "Hip Adduction Machine",
+  "pattern": "hip-adduction",
+  "primary": "adductors",
+  "secondary": "",
+  "equipment": "machine",
+  "setup": [
+   "Pads on the inner knees",
+   "Squeeze the legs together",
+   "Control them back out"
+  ],
+  "shouldFeel": "Inner thighs working.",
+  "commonFaults": [],
+  "substitutes": [
+   "sumo-deadlift"
+  ]
+ },
+ "hip-thrust-machine": {
+  "name": "Hip Thrust Machine",
+  "pattern": "hip-extension",
+  "primary": "glute max",
+  "secondary": "hamstrings",
+  "equipment": "machine",
+  "setup": [
+   "Upper back on the pad, belt over hips",
+   "Chin tucked, ribs down",
+   "Drive hips up and pause"
+  ],
+  "shouldFeel": "Glutes squeezing hard at the top.",
+  "commonFaults": [],
+  "substitutes": [
+   "hip-thrust",
+   "barbell-glute-bridge"
+  ]
+ },
+ "leg-press-calf-raise": {
+  "name": "Calf Press on Leg Press",
+  "pattern": "ankle-extension",
+  "primary": "calves",
+  "secondary": "",
+  "equipment": "machine",
+  "setup": [
+   "Balls of the feet on the platform edge",
+   "Knees almost straight",
+   "Full stretch down, push up onto the toes"
+  ],
+  "shouldFeel": "Calves through a long range.",
+  "commonFaults": [],
+  "substitutes": [
+   "standing-calf-raise",
+   "seated-calf-raise"
+  ]
+ },
+ "tibialis-raise": {
+  "name": "Tibialis Raise",
+  "pattern": "ankle-dorsiflexion",
+  "primary": "tibialis anterior",
+  "secondary": "",
+  "equipment": "bodyweight",
+  "setup": [
+   "Back against a wall, heels forward",
+   "Lift the toes toward the shins",
+   "Lower slowly"
+  ],
+  "shouldFeel": "Front of the shins burning.",
+  "commonFaults": [],
+  "substitutes": [
+   "single-leg-calf-raise"
+  ]
+ },
+ "pull-up": {
+  "name": "Pull-Up",
+  "pattern": "vertical-pull",
+  "primary": "lats",
+  "secondary": "biceps, rear delts",
+  "equipment": "bodyweight",
+  "setup": [
+   "Overhand grip just outside the shoulders",
+   "Pull elbows down to the ribs",
+   "Lower to a full hang"
+  ],
+  "shouldFeel": "Lats pulling the elbows down.",
+  "commonFaults": [],
+  "substitutes": [
+   "assisted-pull-up",
+   "lat-pulldown-wide"
+  ]
+ },
+ "chin-up": {
+  "name": "Chin-Up",
+  "pattern": "vertical-pull",
+  "primary": "lats, biceps",
+  "secondary": "rear delts",
+  "equipment": "bodyweight",
+  "setup": [
+   "Underhand grip, shoulder width",
+   "Chest to the bar",
+   "Lower to a full hang"
+  ],
+  "shouldFeel": "Lats and biceps sharing the work.",
+  "commonFaults": [],
+  "substitutes": [
+   "assisted-pull-up",
+   "lat-pulldown-wide"
+  ]
+ },
+ "close-grip-lat-pulldown": {
+  "name": "Close-Grip Lat Pulldown",
+  "pattern": "vertical-pull",
+  "primary": "lats",
+  "secondary": "biceps",
+  "equipment": "cable",
+  "setup": [
+   "V-handle, lean back slightly",
+   "Pull to the upper chest",
+   "Full stretch at the top"
+  ],
+  "shouldFeel": "Lower lats.",
+  "commonFaults": [],
+  "substitutes": [
+   "lat-pulldown-wide",
+   "single-arm-lat-pulldown"
+  ]
+ },
+ "barbell-row": {
+  "name": "Barbell Row",
+  "pattern": "horizontal-pull",
+  "primary": "lats, rhomboids",
+  "secondary": "rear delts, spinal erectors",
+  "equipment": "barbell",
+  "setup": [
+   "Hinge to about 45°, bar hanging",
+   "Row to the lower ribs",
+   "Lower under control without the torso bouncing"
+  ],
+  "shouldFeel": "Upper back and lats; lower back just holding position.",
+  "commonFaults": [],
+  "substitutes": [
+   "chest-supported-row",
+   "seal-row"
+  ],
+  "caution": "Heavy spinal loading — keep a neutral back and stop the set if your lower back takes over."
+ },
+ "pendlay-row": {
+  "name": "Pendlay Row",
+  "pattern": "horizontal-pull",
+  "primary": "rhomboids, lats",
+  "secondary": "rear delts, spinal erectors",
+  "equipment": "barbell",
+  "setup": [
+   "Torso parallel to the floor, bar on the floor",
+   "Row explosively to the lower chest",
+   "Reset on the floor each rep"
+  ],
+  "shouldFeel": "Upper back snapping the bar up.",
+  "commonFaults": [],
+  "substitutes": [
+   "barbell-row",
+   "seal-row"
+  ],
+  "caution": "Heavy spinal loading — keep a neutral back and stop the set if your lower back takes over."
+ },
+ "t-bar-row": {
+  "name": "T-Bar Row",
+  "pattern": "horizontal-pull",
+  "primary": "lats, rhomboids",
+  "secondary": "rear delts",
+  "equipment": "barbell",
+  "setup": [
+   "Straddle the bar, hinge with a flat back",
+   "Row the handle to the chest",
+   "Stretch at the bottom"
+  ],
+  "shouldFeel": "Mid back and lats.",
+  "commonFaults": [],
+  "substitutes": [
+   "chest-supported-row",
+   "barbell-row"
+  ],
+  "caution": "Bent-over — supported version is easier on the lower back."
+ },
+ "seated-cable-row": {
+  "name": "Seated Cable Row",
+  "pattern": "horizontal-pull",
+  "primary": "lats, rhomboids",
+  "secondary": "rear delts, biceps",
+  "equipment": "cable",
+  "setup": [
+   "Sit tall, slight knee bend",
+   "Row the handle to the stomach",
+   "Let the shoulders reach forward on the return"
+  ],
+  "shouldFeel": "Lats and mid back.",
+  "commonFaults": [],
+  "substitutes": [
+   "chest-supported-row",
+   "machine-row"
+  ]
+ },
+ "machine-row": {
+  "name": "Machine Row",
+  "pattern": "horizontal-pull",
+  "primary": "lats, rhomboids",
+  "secondary": "rear delts",
+  "equipment": "machine",
+  "setup": [
+   "Chest on the pad",
+   "Drive elbows back",
+   "Full stretch forward"
+  ],
+  "shouldFeel": "Mid back with the chest supported.",
+  "commonFaults": [],
+  "substitutes": [
+   "chest-supported-row",
+   "seated-cable-row"
+  ]
+ },
+ "inverted-row": {
+  "name": "Inverted Row",
+  "pattern": "horizontal-pull",
+  "primary": "rhomboids, lats",
+  "secondary": "rear delts, biceps",
+  "equipment": "bodyweight",
+  "setup": [
+   "Hang under a bar, body straight",
+   "Pull chest to the bar",
+   "Lower to straight arms"
+  ],
+  "shouldFeel": "Upper back with a rigid body.",
+  "commonFaults": [],
+  "substitutes": [
+   "seated-cable-row",
+   "single-arm-db-row"
+  ]
+ },
+ "meadows-row": {
+  "name": "Meadows Row",
+  "pattern": "horizontal-pull",
+  "primary": "lats",
+  "secondary": "rear delts, rhomboids",
+  "equipment": "barbell",
+  "setup": [
+   "Landmine bar beside you, staggered stance",
+   "Overhand grip on the sleeve",
+   "Row the elbow up and back"
+  ],
+  "shouldFeel": "One side of the lats and upper back.",
+  "commonFaults": [],
+  "substitutes": [
+   "single-arm-db-row"
+  ]
+ },
+ "db-pullover": {
+  "name": "Dumbbell Pullover",
+  "pattern": "shoulder-extension",
+  "primary": "lats",
+  "secondary": "chest, triceps long head",
+  "equipment": "dumbbell",
+  "setup": [
+   "Lie across or along a bench, dumbbell over the chest",
+   "Lower behind the head with soft elbows",
+   "Pull back over the chest using the lats"
+  ],
+  "shouldFeel": "Lat stretch overhead.",
+  "commonFaults": [],
+  "substitutes": [
+   "straight-arm-pulldown"
+  ],
+  "caution": "Big overhead stretch — keep it light if the shoulder's touchy."
+ },
+ "incline-barbell-bench": {
+  "name": "Incline Barbell Bench Press",
+  "pattern": "incline-push",
+  "primary": "upper chest",
+  "secondary": "front delts, triceps",
+  "equipment": "barbell",
+  "setup": [
+   "Bench at 30°, shoulder blades pinned",
+   "Lower to the upper chest",
+   "Press up and slightly back"
+  ],
+  "shouldFeel": "Upper chest and front delts.",
+  "commonFaults": [],
+  "substitutes": [
+   "incline-db-press",
+   "low-to-high-cable-fly"
+  ]
+ },
+ "decline-bench": {
+  "name": "Decline Bench Press",
+  "pattern": "horizontal-push",
+  "primary": "lower chest",
+  "secondary": "triceps",
+  "equipment": "barbell",
+  "setup": [
+   "Feet locked, slight decline",
+   "Lower to the lower chest",
+   "Press straight up"
+  ],
+  "shouldFeel": "Lower chest.",
+  "commonFaults": [],
+  "substitutes": [
+   "machine-chest-press",
+   "dips"
+  ]
+ },
+ "close-grip-bench": {
+  "name": "Close-Grip Bench Press",
+  "pattern": "horizontal-push",
+  "primary": "triceps",
+  "secondary": "chest, front delts",
+  "equipment": "barbell",
+  "setup": [
+   "Hands shoulder-width",
+   "Elbows tucked",
+   "Lower to the lower chest, press up"
+  ],
+  "shouldFeel": "Triceps driving the press.",
+  "commonFaults": [],
+  "substitutes": [
+   "dips",
+   "cable-tricep-pushdown"
+  ]
+ },
+ "dips": {
+  "name": "Dips",
+  "pattern": "chest-dip",
+  "primary": "lower chest, triceps",
+  "secondary": "front delts",
+  "equipment": "bodyweight",
+  "setup": [
+   "Lean slightly forward for chest",
+   "Lower until shoulders are just below elbows",
+   "Press back up"
+  ],
+  "shouldFeel": "Chest and triceps; no pinch at the front of the shoulder.",
+  "commonFaults": [],
+  "substitutes": [
+   "machine-chest-press",
+   "close-grip-bench"
+  ],
+  "caution": "Deep shoulder extension — stop short of discomfort at the front of the shoulder."
+ },
+ "push-up": {
+  "name": "Push-Up",
+  "pattern": "horizontal-push",
+  "primary": "chest",
+  "secondary": "triceps, front delts, core",
+  "equipment": "bodyweight",
+  "setup": [
+   "Hands under the shoulders, body straight",
+   "Lower chest to the floor",
+   "Press up"
+  ],
+  "shouldFeel": "Chest and triceps with a rigid body.",
+  "commonFaults": [],
+  "substitutes": [
+   "flat-db-press",
+   "machine-chest-press"
+  ]
+ },
+ "pec-deck": {
+  "name": "Pec Deck",
+  "pattern": "chest-adduction",
+  "primary": "mid chest",
+  "secondary": "front delts",
+  "equipment": "machine",
+  "setup": [
+   "Seat so handles are at chest height",
+   "Bring the arms together in a hug",
+   "Stretch back under control"
+  ],
+  "shouldFeel": "Chest squeezing.",
+  "commonFaults": [],
+  "substitutes": [
+   "cable-chest-fly"
+  ]
+ },
+ "smith-incline-press": {
+  "name": "Smith Machine Incline Press",
+  "pattern": "incline-push",
+  "primary": "upper chest",
+  "secondary": "front delts, triceps",
+  "equipment": "machine",
+  "setup": [
+   "Bench at 30° under the bar",
+   "Lower to the upper chest",
+   "Press up"
+  ],
+  "shouldFeel": "Upper chest without balancing the bar.",
+  "commonFaults": [],
+  "substitutes": [
+   "incline-db-press",
+   "incline-barbell-bench"
+  ]
+ },
+ "overhead-press": {
+  "name": "Overhead Press (Standing)",
+  "pattern": "vertical-push",
+  "primary": "front delts",
+  "secondary": "side delts, triceps, core",
+  "equipment": "barbell",
+  "setup": [
+   "Bar on the front delts, glutes squeezed",
+   "Press up, head through at the top",
+   "Lower to the collarbones"
+  ],
+  "shouldFeel": "Shoulders and triceps; ribs down.",
+  "commonFaults": [],
+  "substitutes": [
+   "seated-db-shoulder-press",
+   "machine-shoulder-press"
+  ],
+  "caution": "Overhead and standing — loads the shoulders and lower back."
+ },
+ "arnold-press": {
+  "name": "Arnold Press",
+  "pattern": "vertical-push",
+  "primary": "front/side delts",
+  "secondary": "triceps",
+  "equipment": "dumbbell",
+  "setup": [
+   "Start with palms facing you at chin height",
+   "Rotate out as you press up",
+   "Reverse on the way down"
+  ],
+  "shouldFeel": "Front and side delts.",
+  "commonFaults": [],
+  "substitutes": [
+   "seated-db-shoulder-press"
+  ],
+  "caution": "Rotation under load — skip if the shoulder's irritable."
+ },
+ "machine-lateral-raise": {
+  "name": "Machine Lateral Raise",
+  "pattern": "shoulder-isolation",
+  "primary": "side delts",
+  "secondary": "",
+  "equipment": "machine",
+  "setup": [
+   "Pads on the outside of the elbows",
+   "Raise to shoulder height",
+   "Lower slowly"
+  ],
+  "shouldFeel": "Side delts.",
+  "commonFaults": [],
+  "substitutes": [
+   "db-lateral-raise",
+   "cable-lateral-raise"
+  ]
+ },
+ "upright-row-cable": {
+  "name": "Cable Upright Row (wide)",
+  "pattern": "shoulder-isolation",
+  "primary": "side delts",
+  "secondary": "upper traps",
+  "equipment": "cable",
+  "setup": [
+   "Wide grip on a straight bar",
+   "Pull elbows up to shoulder height",
+   "Lower slowly"
+  ],
+  "shouldFeel": "Side delts and traps.",
+  "commonFaults": [],
+  "substitutes": [
+   "db-lateral-raise"
+  ],
+  "caution": "Can pinch the shoulder — keep it wide and below shoulder height."
+ },
+ "rear-delt-db-fly": {
+  "name": "Bent-Over Rear Delt Fly",
+  "pattern": "rear-delt-isolation",
+  "primary": "rear delts",
+  "secondary": "rhomboids",
+  "equipment": "dumbbell",
+  "setup": [
+   "Hinge or lie chest-down on an incline",
+   "Sweep arms out wide",
+   "Lower slowly"
+  ],
+  "shouldFeel": "Back of the shoulders.",
+  "commonFaults": [],
+  "substitutes": [
+   "reverse-pec-deck",
+   "cable-rear-delt-fly"
+  ]
+ },
+ "barbell-curl": {
+  "name": "Barbell Curl",
+  "pattern": "elbow-flexion",
+  "primary": "biceps",
+  "secondary": "forearms",
+  "equipment": "barbell",
+  "setup": [
+   "Shoulder-width grip, elbows at the sides",
+   "Curl without swinging",
+   "Lower slowly"
+  ],
+  "shouldFeel": "Biceps.",
+  "commonFaults": [],
+  "substitutes": [
+   "ez-bar-curl"
+  ]
+ },
+ "cable-curl": {
+  "name": "Cable Curl",
+  "pattern": "elbow-flexion",
+  "primary": "biceps",
+  "secondary": "forearms",
+  "equipment": "cable",
+  "setup": [
+   "Straight bar or rope from a low pulley",
+   "Elbows fixed",
+   "Curl and squeeze"
+  ],
+  "shouldFeel": "Constant tension on the biceps.",
+  "commonFaults": [],
+  "substitutes": [
+   "ez-bar-curl"
+  ]
+ },
+ "bayesian-cable-curl": {
+  "name": "Bayesian Cable Curl",
+  "pattern": "elbow-flexion",
+  "primary": "biceps long head",
+  "secondary": "",
+  "equipment": "cable",
+  "setup": [
+   "Face away from the pulley, arm behind you",
+   "Curl forward keeping the elbow back",
+   "Full stretch at the bottom"
+  ],
+  "shouldFeel": "Biceps stretched at the start.",
+  "commonFaults": [],
+  "substitutes": [
+   "incline-db-curl"
+  ]
+ },
+ "reverse-curl": {
+  "name": "Reverse Curl",
+  "pattern": "elbow-flexion",
+  "primary": "forearms, brachialis",
+  "secondary": "biceps",
+  "equipment": "barbell",
+  "setup": [
+   "Overhand grip",
+   "Curl with elbows fixed",
+   "Lower slowly"
+  ],
+  "shouldFeel": "Top of the forearms.",
+  "commonFaults": [],
+  "substitutes": [
+   "hammer-curl"
+  ]
+ },
+ "wrist-curl": {
+  "name": "Wrist Curl",
+  "pattern": "wrist-flexion",
+  "primary": "forearms",
+  "secondary": "",
+  "equipment": "dumbbell",
+  "setup": [
+   "Forearms on the thighs, palms up",
+   "Curl the wrist up",
+   "Lower to a stretch"
+  ],
+  "shouldFeel": "Forearm flexors.",
+  "commonFaults": [],
+  "substitutes": [
+   "reverse-curl"
+  ]
+ },
+ "db-tricep-kickback": {
+  "name": "Dumbbell Tricep Kickback",
+  "pattern": "elbow-extension",
+  "primary": "triceps",
+  "secondary": "",
+  "equipment": "dumbbell",
+  "setup": [
+   "Hinge, upper arm along the body",
+   "Straighten the elbow",
+   "Lower slowly"
+  ],
+  "shouldFeel": "Triceps squeezing at lockout.",
+  "commonFaults": [],
+  "substitutes": [
+   "cable-tricep-pushdown"
+  ]
+ },
+ "rope-pushdown": {
+  "name": "Rope Tricep Pushdown",
+  "pattern": "elbow-extension",
+  "primary": "triceps",
+  "secondary": "",
+  "equipment": "cable",
+  "setup": [
+   "Rope at chest height, elbows at the sides",
+   "Push down and spread the rope",
+   "Control back up"
+  ],
+  "shouldFeel": "Triceps.",
+  "commonFaults": [],
+  "substitutes": [
+   "cable-tricep-pushdown"
+  ]
+ },
+ "bench-dip": {
+  "name": "Bench Dip",
+  "pattern": "elbow-extension",
+  "primary": "triceps",
+  "secondary": "chest, front delts",
+  "equipment": "bodyweight",
+  "setup": [
+   "Hands on a bench behind you",
+   "Lower until elbows are at 90°",
+   "Press back up"
+  ],
+  "shouldFeel": "Triceps.",
+  "commonFaults": [],
+  "substitutes": [
+   "cable-tricep-pushdown"
+  ],
+  "caution": "Hard on the front of the shoulder — keep the range short."
+ },
+ "plank": {
+  "name": "Plank",
+  "pattern": "anti-extension-core",
+  "primary": "abs, deep core",
+  "secondary": "shoulders",
+  "equipment": "bodyweight",
+  "setup": [
+   "Forearms under shoulders",
+   "Squeeze glutes, ribs down",
+   "Hold a straight line"
+  ],
+  "shouldFeel": "Abs working to stop the hips sagging.",
+  "commonFaults": [],
+  "substitutes": [
+   "dead-bug",
+   "ab-wheel-rollout"
+  ]
+ },
+ "hanging-leg-raise": {
+  "name": "Hanging Leg Raise",
+  "pattern": "hip-flexion-core",
+  "primary": "lower abs",
+  "secondary": "hip flexors, grip",
+  "equipment": "bodyweight",
+  "setup": [
+   "Hang with shoulders active",
+   "Raise straight legs to hip height or higher",
+   "Lower without swinging"
+  ],
+  "shouldFeel": "Lower abs curling the pelvis.",
+  "commonFaults": [],
+  "substitutes": [
+   "hanging-knee-raise"
+  ]
+ },
+ "russian-twist": {
+  "name": "Russian Twist",
+  "pattern": "rotation-core",
+  "primary": "obliques",
+  "secondary": "abs",
+  "equipment": "bodyweight",
+  "setup": [
+   "Sit leaning back, feet down or up",
+   "Rotate the ribs side to side",
+   "Keep it slow"
+  ],
+  "shouldFeel": "Obliques.",
+  "commonFaults": [],
+  "substitutes": [
+   "cable-woodchop"
+  ],
+  "caution": "Loaded twisting — skip if the lower back complains."
+ },
+ "farmers-carry": {
+  "name": "Farmer's Carry",
+  "pattern": "carry",
+  "primary": "grip, traps, core",
+  "secondary": "forearms, legs",
+  "equipment": "dumbbell",
+  "setup": [
+   "Heavy dumbbells at the sides",
+   "Stand tall, ribs down",
+   "Walk with short, controlled steps"
+  ],
+  "shouldFeel": "Grip, traps and core holding posture.",
+  "commonFaults": [],
+  "substitutes": [
+   "db-shrug"
+  ]
+ },
+ "suitcase-carry": {
+  "name": "Suitcase Carry",
+  "pattern": "carry",
+  "primary": "obliques, grip",
+  "secondary": "traps",
+  "equipment": "dumbbell",
+  "setup": [
+   "One heavy dumbbell at one side",
+   "Stay level — don't lean",
+   "Walk, then switch sides"
+  ],
+  "shouldFeel": "Obliques fighting the lean.",
+  "commonFaults": [],
+  "substitutes": [
+   "side-plank",
+   "farmers-carry"
+  ]
+ },
+ "treadmill-run": {
+  "name": "Treadmill Run",
+  "pattern": "cardio",
+  "primary": "conditioning",
+  "secondary": "legs",
+  "equipment": "treadmill",
+  "setup": [
+   "Warm up for a few minutes",
+   "Settle into the target effort",
+   "Cool down"
+  ],
+  "shouldFeel": "Steady breathing; pace you can hold.",
+  "commonFaults": [],
+  "substitutes": []
+ },
+ "incline-walk": {
+  "name": "Incline Treadmill Walk",
+  "pattern": "cardio",
+  "primary": "conditioning",
+  "secondary": "legs",
+  "equipment": "treadmill",
+  "setup": [
+   "Warm up for a few minutes",
+   "Settle into the target effort",
+   "Cool down"
+  ],
+  "shouldFeel": "Glutes and calves on the incline; heart rate up.",
+  "commonFaults": [],
+  "substitutes": []
+ },
+ "stationary-bike": {
+  "name": "Stationary Bike",
+  "pattern": "cardio",
+  "primary": "conditioning",
+  "secondary": "legs",
+  "equipment": "bike",
+  "setup": [
+   "Warm up for a few minutes",
+   "Settle into the target effort",
+   "Cool down"
+  ],
+  "shouldFeel": "Legs spinning at a steady effort.",
+  "commonFaults": [],
+  "substitutes": []
+ },
+ "rowing-machine": {
+  "name": "Rowing Machine",
+  "pattern": "cardio",
+  "primary": "conditioning",
+  "secondary": "legs",
+  "equipment": "rower",
+  "setup": [
+   "Warm up for a few minutes",
+   "Settle into the target effort",
+   "Cool down"
+  ],
+  "shouldFeel": "Legs drive, then back, then arms.",
+  "commonFaults": [],
+  "substitutes": []
+ },
+ "stair-climber": {
+  "name": "Stair Climber",
+  "pattern": "cardio",
+  "primary": "conditioning",
+  "secondary": "legs",
+  "equipment": "stair machine",
+  "setup": [
+   "Warm up for a few minutes",
+   "Settle into the target effort",
+   "Cool down"
+  ],
+  "shouldFeel": "Glutes and quads; upright posture.",
+  "commonFaults": [],
+  "substitutes": []
+ },
+ "elliptical": {
+  "name": "Elliptical",
+  "pattern": "cardio",
+  "primary": "conditioning",
+  "secondary": "legs",
+  "equipment": "elliptical",
+  "setup": [
+   "Warm up for a few minutes",
+   "Settle into the target effort",
+   "Cool down"
+  ],
+  "shouldFeel": "Low-impact steady effort.",
+  "commonFaults": [],
+  "substitutes": []
+ }
+}

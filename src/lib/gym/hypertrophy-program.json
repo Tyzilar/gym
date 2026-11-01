@@ -1,0 +1,65 @@
+{
+ "id": "hypertrophy-pplda",
+ "name": "Hypertrophy 4-day",
+ "confirmed": false,
+ "sessions": [
+  {
+   "id": "push",
+   "label": "Push",
+   "color": "#3B82C4",
+   "exercises": [
+    { "id": "incline-db-press", "targetSets": 3, "targetReps": "8-10", "targetRpe": 8, "incrementKg": 2 },
+    { "id": "machine-chest-press", "targetSets": 3, "targetReps": "8-12", "targetRpe": 8, "incrementKg": 5 },
+    { "id": "cable-chest-fly", "targetSets": 3, "targetReps": "12-15", "targetRpe": 8 },
+    { "id": "half-kneeling-landmine-press", "targetSets": 3, "targetReps": "8-10/side", "targetRpe": 7.5 },
+    { "id": "cable-lateral-raise", "targetSets": 3, "targetReps": "12-15", "targetRpe": 8 },
+    { "id": "cable-tricep-pushdown", "targetSets": 3, "targetReps": "10-12", "targetRpe": 8 },
+    { "id": "overhead-cable-tricep-extension", "targetSets": 2, "targetReps": "10-12", "targetRpe": 8 }
+   ]
+  },
+  {
+   "id": "legs-glutes",
+   "label": "Legs + Glutes",
+   "color": "#D98E2B",
+   "exercises": [
+    { "id": "hip-90-90-mobility", "targetSets": 1, "targetReps": "60s/side", "targetRpe": null },
+    { "id": "hack-squat", "targetSets": 3, "targetReps": "8-10", "targetRpe": 8, "incrementKg": 5 },
+    { "id": "hip-thrust", "targetSets": 3, "targetReps": "8-10", "targetRpe": 8, "incrementKg": 5 },
+    { "id": "front-foot-elevated-split-squat", "targetSets": 3, "targetReps": "8-10/side", "targetRpe": 8 },
+    { "id": "lying-leg-curl", "targetSets": 3, "targetReps": "10-12", "targetRpe": 8 },
+    { "id": "leg-extension", "targetSets": 2, "targetReps": "12-15", "targetRpe": 8 },
+    { "id": "hip-abduction-machine", "targetSets": 2, "targetReps": "12-15", "targetRpe": 8 },
+    { "id": "standing-calf-raise", "targetSets": 3, "targetReps": "12-15", "targetRpe": 8 }
+   ]
+  },
+  {
+   "id": "pull",
+   "label": "Pull",
+   "color": "#2FA9A0",
+   "exercises": [
+    { "id": "lat-pulldown-wide", "targetSets": 3, "targetReps": "8-10", "targetRpe": 8, "incrementKg": 5 },
+    { "id": "single-arm-lat-pulldown", "targetSets": 3, "targetReps": "10-12/side", "targetRpe": 8 },
+    { "id": "chest-supported-row", "targetSets": 3, "targetReps": "8-10", "targetRpe": 8, "incrementKg": 5 },
+    { "id": "single-arm-db-row", "targetSets": 2, "targetReps": "10-12/side", "targetRpe": 8 },
+    { "id": "reverse-pec-deck", "targetSets": 3, "targetReps": "12-15", "targetRpe": 8 },
+    { "id": "incline-db-curl", "targetSets": 3, "targetReps": "10-12", "targetRpe": 8 },
+    { "id": "hammer-curl", "targetSets": 2, "targetReps": "10-12", "targetRpe": 8 }
+   ]
+  },
+  {
+   "id": "delts-arms",
+   "label": "Delts + Arms",
+   "color": "#8B6CF0",
+   "exercises": [
+    { "id": "machine-shoulder-press", "targetSets": 3, "targetReps": "8-10", "targetRpe": 8, "incrementKg": 5 },
+    { "id": "db-lateral-raise", "targetSets": 4, "targetReps": "12-15", "targetRpe": 8 },
+    { "id": "cable-rear-delt-fly", "targetSets": 3, "targetReps": "12-15", "targetRpe": 8 },
+    { "id": "cable-face-pull", "targetSets": 2, "targetReps": "12-15", "targetRpe": 7 },
+    { "id": "preacher-curl", "targetSets": 3, "targetReps": "10-12", "targetRpe": 8 },
+    { "id": "ez-bar-skull-crusher", "targetSets": 3, "targetReps": "10-12", "targetRpe": 8 },
+    { "id": "concentration-curl", "targetSets": 2, "targetReps": "12-15", "targetRpe": 8 },
+    { "id": "overhead-db-tricep-extension", "targetSets": 2, "targetReps": "12-15", "targetRpe": 8 }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,203 @@
+{
+ "id": "upperLower-starter",
+ "name": "Upper / Lower starter",
+ "confirmed": false,
+ "sessions": [
+  {
+   "id": "upperA",
+   "label": "Upper A",
+   "color": "#3B82C4",
+   "exercises": [
+    {
+     "id": "chest-supported-row",
+     "targetSets": 3,
+     "targetReps": "8-10",
+     "targetRpe": 8
+    },
+    {
+     "id": "flat-db-press",
+     "targetSets": 3,
+     "targetReps": "8-10",
+     "targetRpe": 8
+    },
+    {
+     "id": "lat-pulldown-wide",
+     "targetSets": 3,
+     "targetReps": "10-12",
+     "targetRpe": 8
+    },
+    {
+     "id": "seated-db-shoulder-press",
+     "targetSets": 3,
+     "targetReps": "8-10",
+     "targetRpe": 7.5
+    },
+    {
+     "id": "cable-face-pull",
+     "targetSets": 3,
+     "targetReps": "12-15",
+     "targetRpe": 7
+    },
+    {
+     "id": "db-lateral-raise",
+     "targetSets": 3,
+     "targetReps": "12-15",
+     "targetRpe": 8
+    },
+    {
+     "id": "ez-bar-curl",
+     "targetSets": 2,
+     "targetReps": "10-12",
+     "targetRpe": 8
+    },
+    {
+     "id": "cable-tricep-pushdown",
+     "targetSets": 2,
+     "targetReps": "10-12",
+     "targetRpe": 8
+    }
+   ]
+  },
+  {
+   "id": "lowerA",
+   "label": "Lower A",
+   "color": "#D98E2B",
+   "exercises": [
+    {
+     "id": "hip-90-90-mobility",
+     "targetSets": 1,
+     "targetReps": "60s/side",
+     "targetRpe": null
+    },
+    {
+     "id": "leg-press",
+     "targetSets": 3,
+     "targetReps": "8-10",
+     "targetRpe": 8
+    },
+    {
+     "id": "hip-thrust",
+     "targetSets": 3,
+     "targetReps": "8-10",
+     "targetRpe": 8
+    },
+    {
+     "id": "seated-leg-curl",
+     "targetSets": 3,
+     "targetReps": "10-12",
+     "targetRpe": 8
+    },
+    {
+     "id": "standing-calf-raise",
+     "targetSets": 3,
+     "targetReps": "12-15",
+     "targetRpe": 8
+    },
+    {
+     "id": "cable-pallof-press",
+     "targetSets": 3,
+     "targetReps": "10-12/side",
+     "targetRpe": 7
+    },
+    {
+     "id": "side-plank",
+     "targetSets": 2,
+     "targetReps": "30-45s/side",
+     "targetRpe": 7
+    }
+   ]
+  },
+  {
+   "id": "upperB",
+   "label": "Upper B",
+   "color": "#2FA9A0",
+   "exercises": [
+    {
+     "id": "incline-db-press",
+     "targetSets": 3,
+     "targetReps": "8-10",
+     "targetRpe": 8
+    },
+    {
+     "id": "single-arm-lat-pulldown",
+     "targetSets": 3,
+     "targetReps": "10-12/side",
+     "targetRpe": 8
+    },
+    {
+     "id": "seal-row",
+     "targetSets": 3,
+     "targetReps": "8-10",
+     "targetRpe": 8
+    },
+    {
+     "id": "machine-shoulder-press",
+     "targetSets": 3,
+     "targetReps": "8-10",
+     "targetRpe": 7.5
+    },
+    {
+     "id": "cable-rear-delt-fly",
+     "targetSets": 3,
+     "targetReps": "12-15",
+     "targetRpe": 7
+    },
+    {
+     "id": "hammer-curl",
+     "targetSets": 2,
+     "targetReps": "10-12",
+     "targetRpe": 8
+    },
+    {
+     "id": "overhead-cable-tricep-extension",
+     "targetSets": 2,
+     "targetReps": "10-12",
+     "targetRpe": 8
+    }
+   ]
+  },
+  {
+   "id": "lowerB",
+   "label": "Lower B",
+   "color": "#E0642B",
+   "exercises": [
+    {
+     "id": "hip-90-90-mobility",
+     "targetSets": 1,
+     "targetReps": "60s/side",
+     "targetRpe": null
+    },
+    {
+     "id": "front-foot-elevated-split-squat",
+     "targetSets": 3,
+     "targetReps": "8-10/side",
+     "targetRpe": 8
+    },
+    {
+     "id": "walking-lunge",
+     "targetSets": 3,
+     "targetReps": "10-12/side",
+     "targetRpe": 7.5
+    },
+    {
+     "id": "hip-abduction-machine",
+     "targetSets": 3,
+     "targetReps": "12-15",
+     "targetRpe": 7.5
+    },
+    {
+     "id": "standing-calf-raise",
+     "targetSets": 3,
+     "targetReps": "12-15",
+     "targetRpe": 8
+    },
+    {
+     "id": "dead-bug",
+     "targetSets": 2,
+     "targetReps": "10-12/side",
+     "targetRpe": 6
+    }
+   ]
+  }
+ ]
+}
